@@ -1,2 +1,2 @@
-# building-blocks-demo
-Sample Repository
+Building Blocks Demo
+This is a sample repository
